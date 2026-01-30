@@ -1,0 +1,29 @@
+VectorSearch loading (fresh)...
+
+=== Query: FCC part 15E ===
+  [1] CFR_Part_2 (ecfr) - score: 60.0%
+  [2] CFR_Part_2 (ecfr) - score: 49.6%
+  [3] CFR_Part_74 (ecfr) - score: 49.6%
+  [4] CFR_Part_2 (ecfr) - score: 47.2%
+  [5] CFR_Part_15C (ecfr) - score: 46.1%
+
+=== Query: Part 15E ===
+  [1] S-4791615583-E3V1_FCC Report WWAN Part 24 (testreport) - score: 46.0%
+  [2] CFR_Part_18 (ecfr) - score: 42.8%
+  [3] CFR_Part_95 (ecfr) - score: 40.9%
+  [4] CFR_Part_27 (ecfr) - score: 39.3%
+  [5] CFR_Part_24E (ecfr) - score: 37.5%
+
+=== Query: CFR Part 15E ===
+  [1] CFR_Part_24E (ecfr) - score: 58.3%
+  [2] CFR_Part_27 (ecfr) - score: 50.7%
+  [3] S-4791615583-E3V1_FCC Report WWAN Part 24 (testreport) - score: 50.0%
+  [4] S-4791615583-E7V1 FCC Report DTS(b,g,n,be) WLAN (testreport) - score: 49.6%
+  [5] S-4791615583-E9V1 FCC Report BT (testreport) - score: 48.8%
+
+=== Query: 15E UNII ===
+  [1] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - score: 46.1%
+  [2] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - score: 45.2%
+  [3] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - score: 45.2%
+  [4] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - score: 44.4%
+  [5] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - score: 43.3%

@@ -1,0 +1,25 @@
+RAG System loading...
+
+=== Query: FCC part 15E ===
+Hybrid (vector 50% + BM25 50%):
+  [1] CFR_Part_2 (ecfr) - score: 60.0%
+  [2] CFR_Part_2 (ecfr) - score: 49.7%
+  [3] CFR_Part_74 (ecfr) - score: 49.6%
+
+=== Query: Part 15E UNII ===
+Hybrid (vector 50% + BM25 50%):
+  [1] S-4791615583-E9V1 FCC Report BT (testreport) - score: 42.2%
+  [2] S-4791615583-E15V1 FCC Report UWB (testreport) - score: 42.1%
+  [3] CFR_Part_95 (ecfr) - score: 41.0%
+
+=== Query: 15.407 ===
+Hybrid (vector 50% + BM25 50%):
+  [1] KDB_987594 (kdb) - score: 44.5%
+  [2] RSS-192 (rss) - score: 38.2%
+  [3] KDB_291074 (kdb) - score: 30.1%
+
+=== Query: U-NII 5GHz power limit ===
+Hybrid (vector 50% + BM25 50%):
+  [1] CFR_Part_15E (ecfr) - score: 59.7%
+  [2] CFR_Part_15E (ecfr) - score: 52.7%
+  [3] CFR_Part_15E (ecfr) - score: 52.1%

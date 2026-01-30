@@ -1,0 +1,60 @@
+=== Test Report Only ===
+
+[UNII]
+  1. S-4791615583-E11V1 FCC Report UNII(6E) WLAN - 50.0%
+  2. S-4791615583-E11V1 FCC Report UNII(6E) WLAN - 49.9%
+  3. S-4791615583-E11V1 FCC Report UNII(6E) WLAN - 49.8%
+
+[Bluetooth]
+  1. S-4791615583-E9V1 FCC Report BT - 50.0%
+  2. S-4791615583-E9V1 FCC Report BT - 46.0%
+  3. S-4791615583-E9V1 FCC Report BT - 43.8%
+
+[UWB]
+  1. S-4791615583-E15V1 FCC Report UWB - 50.0%
+  2. S-4791615583-E15V1 FCC Report UWB - 49.6%
+  3. S-4791615583-E15V1 FCC Report UWB - 49.0%
+
+[WWAN]
+  1. S-4791615583-E3V1_FCC Report WWAN Part 24 - 50.0%
+  2. S-4791615583-E3V1_FCC Report WWAN Part 24 - 50.0%
+  3. S-4791615583-E3V1_FCC Report WWAN Part 24 - 50.0%
+
+[wifi]
+  1. S-4791615583-E7V1 FCC Report DTS(b,g,n,be) WLAN - 50.0%
+  2. S-4791615583-E7V1 FCC Report DTS(b,g,n,be) WLAN - 48.1%
+  3. S-4791615583-E11V1 FCC Report UNII(6E) WLAN - 48.1%
+
+[6e wlan]
+  1. S-4791615583-E11V1 FCC Report UNII(6E) WLAN - 50.0%
+  2. S-4791615583-E11V1 FCC Report UNII(6E) WLAN - 49.8%
+  3. S-4791615583-E11V1 FCC Report UNII(6E) WLAN - 49.6%
+
+[bt test]
+  1. S-4791615583-E9V1 FCC Report BT - 50.6%
+  2. S-4791615583-E9V1 FCC Report BT - 47.1%
+  3. S-4791615583-E9V1 FCC Report BT - 46.6%
+
+
+=== All Collections ===
+
+[UNII WLAN]
+  1. KDB_996369 (kdb) - 50.0%
+  2. S-4791615583-E11V1 FCC Report UNII(6E) W (testreport) - 50.0%
+  3. S-4791615583-E11V1 FCC Report UNII(6E) W (testreport) - 49.9%
+  4. S-4791615583-E11V1 FCC Report UNII(6E) W (testreport) - 49.6%
+  5. S-4791615583-E11V1 FCC Report UNII(6E) W (testreport) - 49.5%
+
+[Bluetooth test report]
+  1. KDB_996369 (kdb) - 65.1%
+  2. CFR_Part_20 (ecfr) - 51.0%
+  3. CFR_Part_2 (ecfr) - 50.0%
+  4. RSS-GEN (rss) - 50.0%
+  5. S-4791615583-E9V1 FCC Report BT (testreport) - 50.0%
+
+[UWB measurement]
+  1. RSS-220 (rss) - 62.2%
+  2. KDB_393764 (kdb) - 60.7%
+  3. KDB_393764 (kdb) - 57.8%
+  4. KDB_393764 (kdb) - 57.2%
+  5. KDB_393764 (kdb) - 55.8%

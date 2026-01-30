@@ -1,0 +1,28 @@
+
+=== Part 15E ===
+  [1] KDB_987594 (kdb) - 70.0%
+  [2] CFR_Part_15E (ecfr) - 70.0%
+  [3] RSS-216 (rss) - 70.0%
+  [4] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - 70.0%
+  [5] CFR_Part_15E (ecfr) - 69.5%
+
+=== FCC Part 15E ===
+  [1] KDB_987594 (kdb) - 70.0%
+  [2] CFR_Part_15E (ecfr) - 70.0%
+  [3] RSS-247 (rss) - 70.0%
+  [4] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - 70.0%
+  [5] KDB_996369 (kdb) - 68.0%
+
+=== 15E ===
+  [1] KDB_987594 (kdb) - 70.0%
+  [2] CFR_Part_15E (ecfr) - 70.0%
+  [3] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - 70.0%
+  [4] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - 70.0%
+  [5] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - 69.7%
+
+=== Subpart E UNII ===
+  [1] KDB_789033 (kdb) - 70.0%
+  [2] KDB_789033 (kdb) - 70.0%
+  [3] CFR_Part_74 (ecfr) - 70.0%
+  [4] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - 70.0%
+  [5] CFR_Part_74 (ecfr) - 69.7%

@@ -1,0 +1,29 @@
+VectorSearch loading (fresh)...
+
+=== Query: FCC part 15E ===
+  [1] CFR_Part_2 (ecfr) - score: 37.1%
+  [2] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - score: 35.6%
+  [3] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - score: 35.4%
+  [4] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - score: 35.4%
+  [5] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - score: 35.4%
+
+=== Query: Part 15E ===
+  [1] S-4791615583-E3V1_FCC Report WWAN Part 24 (testreport) - score: 34.5%
+  [2] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - score: 24.7%
+  [3] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - score: 24.7%
+  [4] S-4791615583-E11V1 FCC Report UNII(6E) WLAN (testreport) - score: 23.7%
+  [5] S-4791615583-E15V1 FCC Report UWB (testreport) - score: 23.2%
+
+=== Query: CFR Part 15E ===
+  [1] CFR_Part_27 (ecfr) - score: 46.1%
+  [2] S-4791615583-E3V1_FCC Report WWAN Part 24 (testreport) - score: 43.6%
+  [3] S-4791615583-E7V1 FCC Report DTS(b,g,n,be) WLAN (testreport) - score: 43.3%
+  [4] S-4791615583-E9V1 FCC Report BT (testreport) - score: 42.7%
+  [5] CFR_Part_24E (ecfr) - score: 38.2%
+
+=== Query: 15E UNII ===
+  [1] CFR_Part_15E (ecfr) - score: 47.1%
+  [2] KDB_789033 (kdb) - score: 19.6%
+  [3] KDB_789033 (kdb) - score: 19.5%
+  [4] KDB_905462 (kdb) - score: 18.7%
+  [5] KDB_789033 (kdb) - score: 17.9%
