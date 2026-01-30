@@ -10,7 +10,7 @@
     "file": "AIdata/Testreport/S-4791615583-E11V1 FCC Report UNII(6E) WLAN.pdf",
     "text_file": "AIdata/Testreport/S-4791615583-E11V1_UNII_6E.txt",
     "type": "UNII 6GHz WLAN",
-    "text_status": "need_extraction"
+    "text_status": "ready"
   },
 
   "test_limits": {
@@ -41,7 +41,7 @@
             "name": "D02 General UNII Test Procedures",
             "file": "KDB_789033_D02_General UNII Test Procedures New Rules_v02r01.pdf",
             "text_file": "KDB_789033_D02.txt",
-            "text_status": "need_extraction"
+            "text_status": "ready"
           }
         ]
       },
@@ -54,25 +54,25 @@
             "name": "D01 General Requirements",
             "file": "KDB_987594_D01_U-NII 6GHz General Requirements_v03.pdf",
             "text_file": "KDB_987594_D01.txt",
-            "text_status": "need_extraction"
+            "text_status": "ready"
           },
           {
             "name": "D02 EMC Measurement",
             "file": "KDB_987594_D02_U-NII 6 GHz EMC Measurement_v03.pdf",
             "text_file": "KDB_987594_D02.txt",
-            "text_status": "need_extraction"
+            "text_status": "ready"
           },
           {
             "name": "D03 QA",
             "file": "KDB_987594_D03_U-NII 6 GHz QA_v03.pdf",
             "text_file": "KDB_987594_D03.txt",
-            "text_status": "need_extraction"
+            "text_status": "ready"
           },
           {
             "name": "D04 Pre-Approval Guidance",
             "file": "KDB_987594_D04_UN6GHZ Pre-Approval Guidance Checklist_v03.pdf",
             "text_file": "KDB_987594_D04.txt",
-            "text_status": "need_extraction"
+            "text_status": "ready"
           }
         ]
       },
@@ -85,19 +85,19 @@
             "name": "D01 Multiple Transmitter Output",
             "file": "KDB_662911_D01_Multiple Transmitter Output_v02r01.pdf",
             "text_file": "KDB_662911_D01.txt",
-            "text_status": "need_extraction"
+            "text_status": "ready"
           },
           {
             "name": "D02 MIMO Cross Polarized Antenna",
             "file": "KDB_662911_D02_MIMO with Cross Polarized Antenna_v01.pdf",
             "text_file": "KDB_662911_D02.txt",
-            "text_status": "need_extraction"
+            "text_status": "ready"
           },
           {
             "name": "D03 MIMO Antenna Gain",
             "file": "KDB_662911_D03_MIMO Antenna Gain Measurement_v01.pdf",
             "text_file": "KDB_662911_D03.txt",
-            "text_status": "need_extraction"
+            "text_status": "ready"
           }
         ]
       }
@@ -108,7 +108,7 @@
         "description": "American National Standard of Procedures for Compliance Testing of Unlicensed Wireless Devices",
         "file": "AIdata/global/ANSI c63.10 2020.pdf",
         "text_file": "AIdata/global/ANSI_C63.10_2020.txt",
-        "text_status": "need_extraction"
+        "text_status": "ready"
       }
     ]
   },
