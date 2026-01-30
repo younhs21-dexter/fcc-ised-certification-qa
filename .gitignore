@@ -36,3 +36,15 @@ Thumbs.db
 
 # Large data files (optional - uncomment if needed)
 # aidata/*.json
+
+# Claude Code
+.claude/
+
+# AIdata (too large for git)
+AIdata/
+
+# Test results
+test_results.json
+
+# Windows null file
+nul

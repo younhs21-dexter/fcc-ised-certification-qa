@@ -455,18 +455,65 @@ CERTIFICATION_PACKAGES = {
 ### 실행 명령
 
 ```bash
-# 패키지 기반 Q&A 생성 (예정)
-python scripts/generate_package_qa.py --package "UNII_5GHz_AP"
+# 패키지 기반 Q&A 생성
+python scripts/generate_cross_qa.py --package packages/unii_6e_wlan.json
 
-# 전체 패키지 일괄 생성
-python scripts/generate_package_qa.py --all
-
-# 특정 Test Report에서 패키지 자동 생성
-python scripts/create_package_from_report.py --report "TR_UNII_5GHz.pdf"
+# 포커스별 생성
+python scripts/generate_cross_qa.py --package packages/unii_6e_wlan.json --focus limits
+python scripts/generate_cross_qa.py --package packages/unii_6e_wlan.json --focus procedures
 ```
 
 ---
 
+## 현재 진행 중인 패키지
+
+### UNII_6E_WLAN_001 (첫 번째 패키지)
+
+```
+📄 레포트: S-4791615583-E11V1 FCC Report UNII(6E) WLAN
+
+📋 Test Limits (eCFR):
+├── Part 2 (일반) ─────────── ✅ 텍스트 준비 완료
+└── Part 15E (UNII) ────────── ✅ 텍스트 준비 완료
+
+📝 Test Methods (KDB):
+├── KDB 789033 (UNII 절차) ─── ⬚ PDF 추출 필요
+├── KDB 987594 (6GHz) ──────── ⬚ PDF 추출 필요 (D01~D04)
+└── KDB 662911 (MIMO) ──────── ⬚ PDF 추출 필요 (D01~D03)
+
+📘 Standards:
+└── ANSI C63.10-2020 ───────── ⬚ PDF 추출 필요
+```
+
+### 다음 작업 순서
+
+```
+1. [ ] PDF 텍스트 추출 (KDB, ANSI, Report)
+2. [ ] Phase 1: 개별 Q&A 생성
+3. [ ] Phase 3: 수직 크로스 Q&A (전체 규격 ↔ 레포트)
+4. [ ] 벡터DB 저장
+5. [ ] 품질 검토
+```
+
+### 패키지 파일 위치
+
+```
+packages/unii_6e_wlan.json    ← 패키지 정의
+docs/CROSS_REFERENCE_GUIDE.md ← 상세 가이드
+```
+
+---
+
+## 관련 문서
+
+| 문서 | 설명 |
+|------|------|
+| [QA_GENERATION_GUIDE.md](QA_GENERATION_GUIDE.md) | Q&A 생성 기본 가이드 |
+| [CROSS_REFERENCE_GUIDE.md](CROSS_REFERENCE_GUIDE.md) | 크로스 레퍼런스 상세 가이드 |
+| [packages/unii_6e_wlan.json](../packages/unii_6e_wlan.json) | 첫 번째 패키지 정의 |
+
+---
+
 *작성일: 2026-01-31*
-*업데이트: 2026-01-31 (패키지 기반 학습 계획 추가)*
+*업데이트: 2026-01-31 (4단계 학습 체계, 크로스 레퍼런스 계획 추가)*
 *Claude와 함께 계획*
